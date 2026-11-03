@@ -1,7 +1,7 @@
 {
-  "name": "Catatan Uang",
-  "short_name": "Catatan Uang",
-  "description": "Pencatat uang masuk dan keluar, bisa dipakai offline.",
+  "name": "KantongKu",
+  "short_name": "KantongKu",
+  "description": "Catat uang masuk dan keluar dengan cepat. Bisa dipakai offline, data tersimpan di HP kamu.",
   "lang": "id",
   "start_url": "./",
   "scope": "./",
